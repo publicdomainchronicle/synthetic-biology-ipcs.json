@@ -1,0 +1,47 @@
+{ "type": "object",
+  "patternProperties": {
+    "^[A-Z]$": {
+      "type": "object",
+      "properties": {
+        "description": {
+          "$ref": "#/definitions/description" },
+        "children": {
+          "type": "object",
+          "patternProperties": {
+            "^[0-9][0-9]$": {
+              "type": "object",
+              "properties": {
+                "description": {
+                  "$ref": "#/definitions/description" },
+                "children": {
+                  "type": "object",
+                  "patternProperties": {
+                    "^[A-Z]$": {
+                      "type": "object",
+                      "properties": {
+                        "description": {
+                          "$ref": "#/definitions/description" },
+                        "children": {
+                          "type": "object",
+                          "patternProperties": {
+                            "^[0-9]$": {
+                              "type": "object",
+                              "properties": {
+                                "description": {
+                                  "$ref": "#/definitions/description" },
+                                "children": {
+                                  "type": "object",
+                                  "patternProperties": {
+                                    "^[0-9][0-9]$": {
+                                      "$ref": "#/definitions/final" } } } } } } } } } } } } } } } } } },
+  "definitions": {
+    "description": {
+      "type": "array",
+      "items": {
+        "type": "string" } },
+    "final": {
+      "type": "array",
+      "items": {
+        "type": "array",
+        "items": {
+          "type": "string" } } } } }
