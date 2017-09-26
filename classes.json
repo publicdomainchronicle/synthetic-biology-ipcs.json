@@ -1,0 +1,26 @@
+[
+  {
+    "code": "B01",
+    "text": "PHYSICAL OR CHEMICAL PROCESSES OR APPARATUS IN GENERAL"
+  },
+  {
+    "code": "C12N",
+    "text": "MICROORGANISMS OR ENZYMES; COMPOSITIONS THEREOF (biocides, pest repellants or attractants, or plant growth regulators containing microorganisms, viruses, microbial fungi, enzymes, fermentates, or substances produced by, or extracted from, microorganisms or animal material A01N 63/00; medicinal preparations A61K; fertilisers C05F); PROPAGATING, PRESERVING, OR MAINTAINING MICROORGANISMS; MUTATION OR GENETIC ENGINEERING; CULTURE MEDIA (microbiological testing media C12Q 1/00) [3]"
+  },
+  {
+    "code": "C12P",
+    "text": "FERMENTATION OR ENZYME-USING PROCESSES TO SYNTHESISE A DESIRED CHEMICAL COMPOUND OR COMPOSITION OR TO SEPARATE OPTICAL ISOMERS FROM A RACEMIC MIXTURE [3]"
+  },
+  {
+    "code": "C12Q",
+    "text": "MEASURING OR TESTING PROCESSES INVOLVING ENZYMES OR MICROORGANISMS (immunoassay G01N 33/53); COMPOSITIONS OR TEST PAPERS THEREFOR; PROCESSES OF PREPARING SUCH COMPOSITIONS; CONDITION-RESPONSIVE CONTROL IN MICROBIOLOGICAL OR ENZYMOLOGICAL PROCESSES [3]"
+  },
+  {
+    "code": "C12S",
+    "text": "PROCESSES USING ENZYMES OR MICRO-ORGANISMS TO LIBERATE, SEPARATE OR PURIFY A PRE-EXISTING COMPOUND OR COMPOSITION (biological treatment of water, waste water, or sewage C02F 3/00, of sludge C02F 11/02; processes using enzymes or micro-organisms to separate optical isomers from a racemic mixture C12P 41/00); PROCESSES USING ENZYMES OR MICRO-ORGANISMS TO TREAT TEXTILES OR TO CLEAN SOLID SURFACES OF MATERIALS [5]"
+  },
+  {
+    "code": "C40B",
+    "text": "COMBINATORIAL CHEMISTRY; LIBRARIES, e.g. CHEMICAL LIBRARIES, IN SILICO LIBRARIES [2006.01]"
+  }
+]
