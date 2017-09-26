@@ -5389,127 +5389,133 @@
           "COMBINATORIAL CHEMISTRY",
           "LIBRARIES, e.g. CHEMICAL LIBRARIES,", "LIBRARIES" ],
         "children": {
-          "10": {
-            "description": [ "Directed molecular evolution of macromolecules, e.g. RNA, DNA or proteins" ],
+          "B": {
+            "description": [
+              "COMBINATORIAL CHEMISTRY",
+              "LIBRARIES, e.g. CHEMICAL LIBRARIES",
+              "IN SILICO LIBRARIES" ],
             "children": {
-              "00": [ ] } },
-          "20": {
-            "description": [ "Methods specially adapted for identifying library members" ],
-            "children": {
-              "02": [
-                [ "Identifying library members by their fixed physical location on a support or substrate" ] ],
-              "04": [
-                [ "Identifying library members by means of a tag, label, or other readable or detectable entity associated with the library members, e.g. decoding processes" ] ],
-              "06": [
-                [ "using iterative deconvolution techniques" ] ],
-              "08": [
-                [ "Direct analysis of the library members",
-                  "by physical methods, e.g. spectroscopy" ] ],
-              "00": [ ] } },
-          "30": {
-            "description": [ "Methods of screening libraries" ],
-            "children": {
-              "10": [
-                [ "by measuring physical properties, e.g. mass" ] ],
-              "02": [
-                [ "screening" ] ],
-              "04": [
-                [ "by measuring the ability to specifically bind a target molecule, e.g. antibody-antigen binding, receptor-ligand binding" ] ],
-              "06": [
-                [ "by measuring effects on living organisms, tissues or cells" ] ],
-              "08": [
-                [ "by measuring catalytic activity" ] ],
-              "00": [ ] } },
-          "40": {
-            "description": [ "Libraries", ", e.g. arrays, mixtures" ],
-            "children": {
-              "10": [
-                [ "Libraries containing only organic compounds" ],
-                [ "Libraries containing peptides or polypeptides, or derivatives thereof" ] ],
-              "12": [
-                [ "Libraries containing only organic compounds" ],
-                [ "Libraries containing saccharides or polysaccharides, or derivatives thereof" ] ],
-              "14": [
-                [ "Libraries containing only organic compounds" ],
-                [ "Libraries containing macromolecular compounds and not covered by groups" ] ],
-              "16": [
-                [ "Libraries containing only organic compounds" ],
-                [ "Libraries containing metal-containing organic compounds" ] ],
-              "18": [
-                [ "Libraries containing only inorganic compounds or inorganic materials" ] ],
-              "02": [
-                [ "Libraries contained in or displayed by microorganisms, e.g. bacteria or animal cells",
-                  "Libraries contained in or displayed by vectors, e.g. plasmids",
-                  "Libraries containing only microorganisms or vectors" ] ],
-              "08": [
-                [ "Libraries containing only organic compounds" ],
-                [ "Libraries containing nucleotides or polynucleotides, or derivatives thereof" ],
-                [ "Libraries containing RNA or DNA which encodes proteins, e.g. gene libraries" ] ],
-              "06": [
-                [ "Libraries containing only organic compounds" ],
-                [ "Libraries containing nucleotides or polynucleotides, or derivatives thereof" ] ],
-              "04": [
-                [ "Libraries containing only organic compounds" ] ],
-              "00": [ ] } },
-          "50": {
-            "description": [ "Methods of creating libraries, e.g. combinatorial synthesis" ],
-            "children": {
-              "10": [
-                [ "Liquid phase synthesis, i.e. wherein all library building blocks are in liquid phase or in solution during library creation",
-                  "Particular methods of cleavage from the liquid support" ],
-                [ "involving encoding steps" ] ],
-              "12": [
-                [ "Liquid phase synthesis, i.e. wherein all library building blocks are in liquid phase or in solution during library creation",
-                  "Particular methods of cleavage from the liquid support" ],
-                [ "using a particular method of attachment to the liquid support" ] ],
-              "14": [
-                [ "Solid phase synthesis, i.e. wherein one or more library building blocks are bound to a solid support during library creation",
-                  "Particular methods of cleavage from the solid support" ] ],
-              "16": [
-                [ "Solid phase synthesis, i.e. wherein one or more library building blocks are bound to a solid support during library creation",
-                  "Particular methods of cleavage from the solid support" ],
-                [ "involving encoding steps" ] ],
-              "18": [
-                [ "Solid phase synthesis, i.e. wherein one or more library building blocks are bound to a solid support during library creation",
-                  "Particular methods of cleavage from the solid support" ],
-                [ "using a particular method of attachment to the solid support" ] ],
-              "02": [
-                [ "or mathematical conception of libraries" ] ],
-              "04": [
-                [ "using dynamic combinatorial chemistry techniques" ] ],
-              "06": [
-                [ "Biochemical methods, e.g. using enzymes or whole viable microorganisms" ] ],
-              "08": [
-                [ "Liquid phase synthesis, i.e. wherein all library building blocks are in liquid phase or in solution during library creation",
-                  "Particular methods of cleavage from the liquid support" ] ],
-              "00": [ ] } },
-          "60": {
-            "description": [ "Apparatus specially adapted for use in combinatorial chemistry or with libraries" ],
-            "children": {
-              "10": [
-                [ "for identifying library members" ] ],
-              "12": [
-                [ "for screening libraries" ] ],
-              "14": [
-                [ "for creating libraries" ] ],
-              "02": [
-                [ "Integrated apparatus specially adapted for creating libraries, screening libraries and for identifying library members" ] ],
-              "04": [
-                [ "Integrated apparatus specially adapted for both screening libraries and identifying library members" ] ],
-              "06": [
-                [ "Integrated apparatus specially adapted for both creating libraries and identifying library members" ] ],
-              "08": [
-                [ "Integrated apparatus specially adapted for both creating and screening libraries" ] ],
-              "00": [ ] } },
-          "70": {
-            "description": [ "Tags or labels specially adapted for combinatorial chemistry or libraries, e.g. fluorescent tags or barcodes" ],
-            "children": {
-              "00": [ ] } },
-          "80": {
-            "description": [ "Linkers or spacers specially adapted for combinatorial chemistry or libraries, e.g. traceless linkers or safety-catch linkers" ],
-            "children": {
-              "00": [ ] } },
-          "99": {
-            "description": [ "Subject matter not provided for in other groups of this subclass" ],
-            "children": {
-              "00": [ ] } } } } } } }
+              "10": {
+                "description": [ "Directed molecular evolution of macromolecules, e.g. RNA, DNA or proteins" ],
+                "children": {
+                  "00": [ ] } },
+              "20": {
+                "description": [ "Methods specially adapted for identifying library members" ],
+                "children": {
+                  "02": [
+                    [ "Identifying library members by their fixed physical location on a support or substrate" ] ],
+                  "04": [
+                    [ "Identifying library members by means of a tag, label, or other readable or detectable entity associated with the library members, e.g. decoding processes" ] ],
+                  "06": [
+                    [ "using iterative deconvolution techniques" ] ],
+                  "08": [
+                    [ "Direct analysis of the library members",
+                      "by physical methods, e.g. spectroscopy" ] ],
+                  "00": [ ] } },
+              "30": {
+                "description": [ "Methods of screening libraries" ],
+                "children": {
+                  "10": [
+                    [ "by measuring physical properties, e.g. mass" ] ],
+                  "02": [
+                    [ "screening" ] ],
+                  "04": [
+                    [ "by measuring the ability to specifically bind a target molecule, e.g. antibody-antigen binding, receptor-ligand binding" ] ],
+                  "06": [
+                    [ "by measuring effects on living organisms, tissues or cells" ] ],
+                  "08": [
+                    [ "by measuring catalytic activity" ] ],
+                  "00": [ ] } },
+              "40": {
+                "description": [ "Libraries", ", e.g. arrays, mixtures" ],
+                "children": {
+                  "10": [
+                    [ "Libraries containing only organic compounds" ],
+                    [ "Libraries containing peptides or polypeptides, or derivatives thereof" ] ],
+                  "12": [
+                    [ "Libraries containing only organic compounds" ],
+                    [ "Libraries containing saccharides or polysaccharides, or derivatives thereof" ] ],
+                  "14": [
+                    [ "Libraries containing only organic compounds" ],
+                    [ "Libraries containing macromolecular compounds and not covered by groups" ] ],
+                  "16": [
+                    [ "Libraries containing only organic compounds" ],
+                    [ "Libraries containing metal-containing organic compounds" ] ],
+                  "18": [
+                    [ "Libraries containing only inorganic compounds or inorganic materials" ] ],
+                  "02": [
+                    [ "Libraries contained in or displayed by microorganisms, e.g. bacteria or animal cells",
+                      "Libraries contained in or displayed by vectors, e.g. plasmids",
+                      "Libraries containing only microorganisms or vectors" ] ],
+                  "08": [
+                    [ "Libraries containing only organic compounds" ],
+                    [ "Libraries containing nucleotides or polynucleotides, or derivatives thereof" ],
+                    [ "Libraries containing RNA or DNA which encodes proteins, e.g. gene libraries" ] ],
+                  "06": [
+                    [ "Libraries containing only organic compounds" ],
+                    [ "Libraries containing nucleotides or polynucleotides, or derivatives thereof" ] ],
+                  "04": [
+                    [ "Libraries containing only organic compounds" ] ],
+                  "00": [ ] } },
+              "50": {
+                "description": [ "Methods of creating libraries, e.g. combinatorial synthesis" ],
+                "children": {
+                  "10": [
+                    [ "Liquid phase synthesis, i.e. wherein all library building blocks are in liquid phase or in solution during library creation",
+                      "Particular methods of cleavage from the liquid support" ],
+                    [ "involving encoding steps" ] ],
+                  "12": [
+                    [ "Liquid phase synthesis, i.e. wherein all library building blocks are in liquid phase or in solution during library creation",
+                      "Particular methods of cleavage from the liquid support" ],
+                    [ "using a particular method of attachment to the liquid support" ] ],
+                  "14": [
+                    [ "Solid phase synthesis, i.e. wherein one or more library building blocks are bound to a solid support during library creation",
+                      "Particular methods of cleavage from the solid support" ] ],
+                  "16": [
+                    [ "Solid phase synthesis, i.e. wherein one or more library building blocks are bound to a solid support during library creation",
+                      "Particular methods of cleavage from the solid support" ],
+                    [ "involving encoding steps" ] ],
+                  "18": [
+                    [ "Solid phase synthesis, i.e. wherein one or more library building blocks are bound to a solid support during library creation",
+                      "Particular methods of cleavage from the solid support" ],
+                    [ "using a particular method of attachment to the solid support" ] ],
+                  "02": [
+                    [ "or mathematical conception of libraries" ] ],
+                  "04": [
+                    [ "using dynamic combinatorial chemistry techniques" ] ],
+                  "06": [
+                    [ "Biochemical methods, e.g. using enzymes or whole viable microorganisms" ] ],
+                  "08": [
+                    [ "Liquid phase synthesis, i.e. wherein all library building blocks are in liquid phase or in solution during library creation",
+                      "Particular methods of cleavage from the liquid support" ] ],
+                  "00": [ ] } },
+              "60": {
+                "description": [ "Apparatus specially adapted for use in combinatorial chemistry or with libraries" ],
+                "children": {
+                  "10": [
+                    [ "for identifying library members" ] ],
+                  "12": [
+                    [ "for screening libraries" ] ],
+                  "14": [
+                    [ "for creating libraries" ] ],
+                  "02": [
+                    [ "Integrated apparatus specially adapted for creating libraries, screening libraries and for identifying library members" ] ],
+                  "04": [
+                    [ "Integrated apparatus specially adapted for both screening libraries and identifying library members" ] ],
+                  "06": [
+                    [ "Integrated apparatus specially adapted for both creating libraries and identifying library members" ] ],
+                  "08": [
+                    [ "Integrated apparatus specially adapted for both creating and screening libraries" ] ],
+                  "00": [ ] } },
+              "70": {
+                "description": [ "Tags or labels specially adapted for combinatorial chemistry or libraries, e.g. fluorescent tags or barcodes" ],
+                "children": {
+                  "00": [ ] } },
+              "80": {
+                "description": [ "Linkers or spacers specially adapted for combinatorial chemistry or libraries, e.g. traceless linkers or safety-catch linkers" ],
+                "children": {
+                  "00": [ ] } },
+              "99": {
+                "description": [ "Subject matter not provided for in other groups of this subclass" ],
+                "children": {
+                  "00": [ ] } } } } } } } } }
